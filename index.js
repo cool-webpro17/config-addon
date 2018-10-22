@@ -1,5 +1,6 @@
 // import { twigFunctions } from '../.storybook/helpers/TwigFunctions';
 import pathParse from 'path-parse';
+import { storiesOf } from '@storybook/html';
 
 export const AddStories = (templateFiles, templateData) => {
 
