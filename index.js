@@ -234,7 +234,7 @@ export const AddStories = (templateFiles, templateData) => {
 }
 
 export const asset = value => {
-  const manifest = require('../public/build/manifest.json');
+  const manifest = require('../../public/build/manifest.json');
   const assetUrl = manifest[value];
   
   if (assetUrl)
