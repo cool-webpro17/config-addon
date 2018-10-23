@@ -21,6 +21,10 @@
   },
   "dependencies": {
     "@storybook/html": "^4.0.0-alpha.16",
+    "@storybook/addon-options": "^4.0.0-alpha.16",
+    "@storybook/addon-backgrounds": "^4.0.0-alpha.16",
+    "@storybook/addon-knobs": "^4.0.0-alpha.16",
+    "@storybook/addon-notes": "^4.0.0-alpha.16",
     "path-parse": "^1.0.6",
     "hasha": "^3.0.0",
     "loader-utils": "^1.1.0",
